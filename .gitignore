@@ -1,0 +1,10 @@
+# Track source code and instructions. Study inputs, fitted objects and generated results stay local.
+*
+!*/
+!.gitignore
+!/README.md
+!/original_analysis/README.md
+!/original_analysis/1_Script/R/*.R
+!/review_analysis/README.md
+!/review_analysis/*/Scripts/*.R
+!/review_analysis/*/Scripts/*.py
